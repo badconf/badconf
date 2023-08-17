@@ -1,4 +1,4 @@
-# Hello, I'm badconf 👋
+# Hello
 
 I'm an Infrastructure Solutions Architect with a passion for technology and innovation. My daily work involves designing and implementing robust infrastructure solutions that power businesses and drive success.
 
