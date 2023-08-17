@@ -24,4 +24,4 @@ Feel free to explore, clone, or fork my repositories. I'm not looking for collab
 
 ---
 
-🔓 Licensed under [Creative Commons Public Domain (CC0)](LICENSE).
+🔓 Licensed under [Creative Commons Public Domain (CC0)](LICENSE.md).
