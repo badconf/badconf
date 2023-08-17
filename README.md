@@ -24,8 +24,8 @@ Feel free to explore, clone, or fork my repositories. I'm not looking for collab
 
 ## 📫 Connect with Me
 
-You can reach out to me via
-![email address image](https://github.com/badconf/badconf/blob/main/email.gif)
+You can reach out to me via 
+![email address image](https://github.com/badconf/badconf/blob/main/email.png)
 
 ---
 
