@@ -22,11 +22,6 @@ I strongly believe in the power of sharing and collaboration. My open source phi
 
 Feel free to explore, clone, or fork my repositories. I'm not looking for collaboration!
 
-## 📫 Connect with Me
-
-You can reach out to me via 
-![email address image](https://github.com/badconf/badconf/blob/main/email.png)
-
 ---
 
 🔓 Licensed under [Creative Commons Public Domain (CC0)](LICENSE.md).
