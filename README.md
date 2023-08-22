@@ -12,9 +12,9 @@ I'm an Infrastructure Solutions Architect with a passion for technology and inno
 
 Here on my personal GitHub profile, you'll find a collection of code files and projects that I've developed for personal use. These might include:
 
-- Scripts to automate stuff 🛠️
-- Web pages with elegant typography 🖋️
-- Experimenting with new technologies and frameworks 💡
+- Scripts to automate stuff
+- Web pages with elegant typography
+- Experimenting with new technologies and frameworks
 
 ## Open Source Philosophy
 
