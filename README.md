@@ -25,9 +25,9 @@ I'm not looking for contribution, except explicit mention for it. I just share w
 ## Languages
 
 <div>
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
+  <img width=50px src="https://assets-eu-01.kc-usercontent.com/b41f2e46-b5e6-01a3-0879-16969c63381e/d14b9255-0256-4d69-a4c2-204a91f86c29/go-color-padding.svg">&nbsp;
+  <img width=50px src="https://assets-eu-01.kc-usercontent.com/b41f2e46-b5e6-01a3-0879-16969c63381e/31033a96-f5bb-436e-958c-39d84615350e/html-color-padding.svg">&nbsp;
+  <img width=50px src="https://assets-eu-01.kc-usercontent.com/b41f2e46-b5e6-01a3-0879-16969c63381e/c5cc9f5d-1b50-42ea-aacd-1eb027f7903f/css-color-padding.svg">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg">&nbsp;
 </div>
 
