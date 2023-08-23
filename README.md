@@ -16,6 +16,8 @@ Here on my personal GitHub profile, you'll find a collection of code files and p
 - Web pages with elegant typography
 - Experimenting with new technologies and frameworks
 
+I used to program in Perl in the past for system scripts and web applications with CGI. Now I move to Go for many reasons.
+
 ## Open Source Philosophy
 
 Since 1997 I strongly believe in the power of sharing and collaboration. My open source philosophy drives me to share some of my personal work here on GitHub. But I'm not a professional developer :)
