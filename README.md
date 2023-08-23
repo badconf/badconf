@@ -20,9 +20,7 @@ Here on my personal GitHub profile, you'll find a collection of code files and p
 
 Since 1997 I strongly believe in the power of sharing and collaboration. My open source philosophy drives me to share some of my personal work here on GitHub. But I'm not a professional developer :)
 
-Feel free to explore, clone, or fork my repositories.
-
-I'm not looking for collaboration!
+I'm not looking for contribution, except explicit mention for it. I just share what I write or code for my personal use. Feel free to fork.
 
 ---
 
