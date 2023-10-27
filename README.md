@@ -7,6 +7,7 @@ I'm an Infrastructure Solutions Architect with a passion for technology and inno
 - **Design**: Crafting comprehensive infrastructure solutions tailored to specific needs.
 - **Implement**: Turning design ideas into functional, efficient, and scalable systems.
 - **Code**: Although an architect, I occasionally delve into coding, creating personal tools and scripts.
+- **Write**: I wrote my first ebook about privacy, published [here](https://www.zelib.org).
 
 ## On GitHub
 
