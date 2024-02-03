@@ -1,6 +1,6 @@
 # Hello
 
-I'm a Solutions Architect with a passion for technology and innovation. My daily work involves designing and implementing robust infrastructure solutions that power businesses and drive success.
+I'm a Solutions Architect with a passion for technology and innovation. My daily work involves designing and implementing robust solutions that power businesses and drive success.
 
 ## What I Do
 
