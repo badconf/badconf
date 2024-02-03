@@ -1,23 +1,21 @@
 # Hello
 
-I'm an Infrastructure Solutions Architect with a passion for technology and innovation. My daily work involves designing and implementing robust infrastructure solutions that power businesses and drive success.
+I'm a Solutions Architect with a passion for technology and innovation. My daily work involves designing and implementing robust infrastructure solutions that power businesses and drive success.
 
 ## What I Do
 
-- **Design**: Crafting comprehensive infrastructure solutions tailored to specific needs.
+- **Design**: Crafting comprehensive systems tailored to specific needs.
 - **Implement**: Turning design ideas into functional, efficient, and scalable systems.
 - **Code**: Although an architect, I occasionally delve into coding, creating personal tools and scripts.
-- **Write**: I wrote my first ebook about privacy, published [here](https://www.zelib.org).
+- **Write**: I wrote my first ebook about privacy, published [here](https://architext.org). Another one is coming.
 
 ## On GitHub
 
-Here on my personal GitHub profile, you'll find a collection of code files and projects that I've developed for personal use. These might include:
+Here on my personal GitHub profile, you'll find a collection of content. These might include:
 
-- Scripts to automate stuff
+- Some code for stuff
 - Web pages with elegant typography
-- Experimenting with new technologies and frameworks
-
-I used to program in Perl in the past for system scripts and web applications with CGI. Now I move to Go for many reasons.
+- Lists of resources
 
 ## Open Source Philosophy
 
